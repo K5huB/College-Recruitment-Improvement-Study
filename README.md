@@ -1,1 +1,1 @@
-# Improvement-Study
+# mission: analyze data from the Non-majors Survey dataset in order to elaborate for the CCM Dep of Info Tech which/when/where/why students are taking their entry level computing/comouter literacy classes
